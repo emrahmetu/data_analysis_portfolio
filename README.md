@@ -14,9 +14,9 @@ My project, You Have My Car (Arabam Sende), was selected in the top 10 in the en
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Video Games Sales Analysis](#video-games-sales-analysis)
-	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
-	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
+	+ [Detection of Fake Sales](#detection-of-fake-sales)
+	+ [Earthquake Prediction in Turkey with LSTM Model](#earthquake-prediction-in-turkey-with-lstm-model)
+	+ [Violent Crimes in USA Communities](#violent-crimes-in-usa-communities)
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
 	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Study Projects](#study-projects)  
@@ -36,28 +36,27 @@ My project, You Have My Car (Arabam Sende), was selected in the top 10 in the en
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Video Games Sales Analysis
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
-**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
+### Detection of Fake Sales
+**Code:** [`detection_of_fake_sales`](https://medium.com/@emrahmetu/a-real-life-example-data-analytics-in-audit-7a317bad9ccf)    
+**Description:** The aim of this study is to test machine learning algorithms namely Logistic Regression, K-nears Neighbor and Decision Tree for determining which algorithm is the most effective for fake sales determination and comparing re-sampling techniques namely random under-sampling and SMOTE method. Auditors and finance staff can focus more on fraudulent activities instead of spending too much time with inefficient sampling.  
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
+**Conclusion:** According to the results obtained in this study, over-sampling method resulted with better accuracy in logistic regression algorithm by handling with imbalanced dataset better. Over-sampling do not cause data loss with contrast to under-sampling. We also tried outlier removal in under-sampling but we got better results without removing outliers. We did not try outlier removal in over-sampling because it takes more than 10 minutes to run. Outlier removal may give better results in over-sampling but there is always risk of losing significant information in our dataset.
 
-### A Mobile Game Data Analysis
-**Code:** [`final_project.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)    
-**Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
-**Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   
-**Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.    
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.     
-**Results:** python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant result with a recommendation to push tested in-app changes into production, a set of metrics to evaluate success of promotion campaign.  
+### Earthquake Prediction in Turkey with LSTM Model
+**Code:** [`earthquake_prediction_in_turkey`](https://medium.com/@emrahmetu/earthquake-prediction-in-turkey-with-lstm-model-327df0761e4)    
+**Project:** [`my_project_slides.pdf`](https://docs.google.com/document/d/1zeLCcMfMLQQ-ttNTQQBWva6gCMx6iDsc/edit)   
+**Description:** Turkey has had an observatory called Kandilli Rasathanesi since 1894 and it was connected to Bogazici University in 1982. During the 31 March Case in 1909, Kandilli Observatory and Earthquake Research Institute was destroyed, and it was reconstructed in 1910. The purpose of this paper is to review the seismicity in Turkey for the period 1910–2017 by using historical data observed by Kandilli Observatory and Earthquake Research Institute and predicting the earthquake by Long Short Term Memory which is a time-series data analysis method.
+**Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, Shapiro–Wilk test, data transforms   
+**Technology:** Python, Pandas, Numpy, lstm, Seaborn, Matplotlib, Statsmodels Stats, R programming, preprocessing, exploratory analysis   
+**Conclusion:** When we check the past data, we concluded that most of the earthquakes have been occurred in northwest and southwest. LSTM that we applied to our data also predicts by looking at the past time series that most of the earthquakes will be in the western areas. 
 
-### A Landing Page Design Experiment
-**Code:** [`notebook.ipynb`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/notebook.ipynb)    
-**Presentation:** [`slides.pdf`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/slides.pdf)    
-**Description:** My solution to an open Data Analyst competition held by [Карьерный Цех](https://careerfactory.ru/). The solution took the 7th place in the competition (≈100 solutions were submitted by participants).     
-**Skills:** evaluating A/B-test design, data cleaning, data anomalies detection, checking splitting system, calculating conversion rate, calculating bounce rate, log-scale transformations, Shapiro–Wilk test of distribution normality, A/B-tests (proportions z-test, Mann–Whitney rank test), plotting results, making conclusion and giving recommendations for follow-up actions.      
+### Violent Crimes in USA Communities
+**Article:** [`notebook.ipynb`](https://medium.com/@emrahmetu/violent-crimes-in-usa-communities-b37923038172)      
+**Summary:** Understanding where violent crime occurs may be a gateway to understand why it does occur. Environmental, socioeconomic and demographic factors may be important predictors of a society’s level of violent crime. Determining which ones are most prominent on the level of violent crime would provide useful insight to community design, economic growth and policing. The purpose of this paper is to examine and explore the predictors of ‘murder’ crimes committed in the United States, compare models using appropriate predictors to predict ‘murder’ and explain pros and cons. Data of communities and crimes was taken from the UCI Dataset Repository.
+**Skills:** Shapiro-Wilk, Test for Skewness, Linear Regression, Decision Tree Regression, Random Forest Regression, data cleaning, data anomalies detection
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats.   
-**Results:** A/B test design analysis, conclusion on rolling the new landing page design to production, recommendations on how to improve. 
+**Conslusion:** The most significant factors influencing violent crime rates are increase in the percentage/number of kids born to people who never married, decrease in the percentage of Caucasian population, increase in the percentage of African-American population, decrease in the percent of kids of age 12–17 in two-parent households, decrease in the percent of kids 4 and under in two-parent households.
 
 ### Online Advertising Campaign Analysis
 **Code:** [`ya_ad_int_solution.ipynb `](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_solution.ipynb)    
