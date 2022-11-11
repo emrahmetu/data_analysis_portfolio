@@ -19,7 +19,7 @@ My project, You Have My Car (Arabam Sende), was selected in the top 10 in the en
 	+ [Violent Crimes in USA Communities](#violent-crimes-in-usa-communities)
 	+ [Sales Data Analysis in Python](#sales-data-analysis-in-python)
 	+ [Airbnb in London](#airbnb-in-london)
-- [Study Projects](#study-projects)  
+- [MSc in Big Data Analytics and Management Courses](#msc-in-big-data-analytics-and-management-courses)  
     + [sklearn ML course](#sklearn-ML-course)
 	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
 	+ [Data Analysis Course](#data-analyst-specialization)
@@ -72,13 +72,30 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Tableau
 **Results:** I analysed public data from Airbnb in London. These findings give us a broad perspective about the relationship between regions, prices and ratings.
 
-## Study Projects
-In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
+## MSc in Big Data Analytics and Management Courses
+In this section I will provide details about courses taken during MSc in Big Data Analytics and Management at Bahcesehir University.
 
-### sklearn ML course
-**Description:** Machine Learning in Python with scikit-learn by France Université Numérique. [The course official page](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/).  
-This 3 month course is an in-depth introduction to predictive modeling with scikit-learn. Step-by-step and didactic lessons introduce the fundamental methodological and software tools of machine learning, and is as such a stepping stone to more advanced challenges in artificial intelligence, text mining, or data science.  
-**Repository:** Check the repository having jupyter notebooks with the course lectures and tasks' solutions ---> [go to repo..](https://github.com/nktnlx/sklearn_ml_course)  
+### Introduction to Big Data
+**Description:** The objective of this course is introduce fundamental concepts and methods in Big Data analytics and Data science, and provide students the insights into the basics of using "Big Data" in real-world scenarios.
+. [The course official page](https://akts.bau.edu.tr/bilgipaketi/index/ders/ders_id/16514/program_kodu/34373401/s/1/st/M/ln/en/print/1/).  
+In this course I learned; 
+how to develop fundamental statistical models using R programming language,
+how to analyze big data sets to provide insight regarding the assumptions, value drivers, and risks,
+how to use statistical models to explore different ways to think about uncertainty, guide decision-making, and persuasively communicate analytical results,
+how to apply basic methods to text mining, building search engines and recommendation systems.
+
+**Course Content:** 
+Introduction to Big Data and Data Science
+Statistical programming: Introduction to R and RStudio
+Data Modeling Basics/Data Collection/Cleansing/Processing
+Data Visualization and Communication
+Simple Regression: Introduction, Statistical and Practical
+Flexible Regression Models: Dummy Variables
+Flexible Regression Models: Data Transformation
+Selective Regression Models
+Fundamentals of Text Mining
+Building Search Engines
+Inner workings of Recommendation Engines 
 **Status:** Completed in May 2022 (please, check the certificates section below).  
 
 ### Kaggle 30 Days of ML
