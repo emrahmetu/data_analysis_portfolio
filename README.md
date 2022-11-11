@@ -72,7 +72,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Tableau
 **Results:** I analysed public data from Airbnb in London. These findings give us a broad perspective about the relationship between regions, prices and ratings.
 
-## MSc in Big Data Analytics and Management Courses
+## MSc in Big Data Analytics and Management - Courses
 In this section I will provide details about courses taken during MSc in Big Data Analytics and Management at Bahcesehir University.
 
 ### Introduction to Big Data
