@@ -45,34 +45,32 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Earthquake Prediction in Turkey with LSTM Model
 **Code:** [`earthquake_prediction_in_turkey`](https://medium.com/@emrahmetu/earthquake-prediction-in-turkey-with-lstm-model-327df0761e4)    
-**Project:** [`my_project_slides.pdf`](https://docs.google.com/document/d/1zeLCcMfMLQQ-ttNTQQBWva6gCMx6iDsc/edit)   
+**Project:** [`my_project`](https://docs.google.com/document/d/1zeLCcMfMLQQ-ttNTQQBWva6gCMx6iDsc/edit)   
 **Description:** Turkey has had an observatory called Kandilli Rasathanesi since 1894 and it was connected to Bogazici University in 1982. During the 31 March Case in 1909, Kandilli Observatory and Earthquake Research Institute was destroyed, and it was reconstructed in 1910. The purpose of this paper is to review the seismicity in Turkey for the period 1910–2017 by using historical data observed by Kandilli Observatory and Earthquake Research Institute and predicting the earthquake by Long Short Term Memory which is a time-series data analysis method.
 **Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, Shapiro–Wilk test, data transforms   
 **Technology:** Python, Pandas, Numpy, lstm, Seaborn, Matplotlib, Statsmodels Stats, R programming, preprocessing, exploratory analysis   
 **Conclusion:** When we check the past data, we concluded that most of the earthquakes have been occurred in northwest and southwest. LSTM that we applied to our data also predicts by looking at the past time series that most of the earthquakes will be in the western areas. 
 
 ### Violent Crimes in USA Communities
-**Article:** [`notebook.ipynb`](https://medium.com/@emrahmetu/violent-crimes-in-usa-communities-b37923038172)      
+**Article:** [`violant_crime_in_usa`](https://medium.com/@emrahmetu/violent-crimes-in-usa-communities-b37923038172)      
 **Summary:** Understanding where violent crime occurs may be a gateway to understand why it does occur. Environmental, socioeconomic and demographic factors may be important predictors of a society’s level of violent crime. Determining which ones are most prominent on the level of violent crime would provide useful insight to community design, economic growth and policing. The purpose of this paper is to examine and explore the predictors of ‘murder’ crimes committed in the United States, compare models using appropriate predictors to predict ‘murder’ and explain pros and cons. Data of communities and crimes was taken from the UCI Dataset Repository.
 **Skills:** Shapiro-Wilk, Test for Skewness, Linear Regression, Decision Tree Regression, Random Forest Regression, data cleaning, data anomalies detection
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats.   
 **Conslusion:** The most significant factors influencing violent crime rates are increase in the percentage/number of kids born to people who never married, decrease in the percentage of Caucasian population, increase in the percentage of African-American population, decrease in the percent of kids of age 12–17 in two-parent households, decrease in the percent of kids 4 and under in two-parent households.
 
-### Online Advertising Campaign Analysis
-**Code:** [`ya_ad_int_solution.ipynb `](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_solution.ipynb)    
-**Presentation:** [`ya_ad_int_slides_upd.pdf`](https://github.com/nktnlx/side_projects/blob/master/6_ya_ad_internship/ya_ad_int_slides_upd.pdf)    
-**Description:** My submission to Yandex Advertising Analytics internship program.    
-**Skills:** data cleaning, CTR, CPC, CPA and CR calculation, comparing metrics with competitors, visualizing results, drawing conclusions.    
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.     
-**Results:** the slide deck with online advertising campaign analysis and recommendations on how to improve based on the service category. 
+### Sales Data Analysis in Python
+**Article:** [`sales_data_analysis`](https://medium.com/@emrahmetu/sales-data-analysis-in-python-c4310002ad05)    
+**Summary:** An international company sells in 20 different product groups. Premiums are given to sales representatives selling in these product groups if they meet the targeted sales numbers. The sales figures of the employees of this company in 20 product groups are shown in the attached file. The “Product Profit” column in this file represents revenue from sales made by vendors across product groups. Columns P1, P2, …, P20 represent sales in product groups. 
+**Skills:** Mean Absolute Error, Mean Squared Error, Root Mean Squared Error, LinearRegression   
+**Technology:** python, numpy, pandas, matplotlib, sklearn    
+**Results:** Root mean squared error is 11.23, which is more than %10 of mean value of the percentages of all product sales. This means that algorithm was not very accurate.
 
-### Airbnb Listings Analytics 
-**Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/nktn.lx/viz/LondonAirbnbListingsAnalyticalDashboardpractice5/Dashboard1)    
-**Dashboard canvas:** [`dashboard_canvas.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/32_airbnb_listings/dashboard_canvas.pdf)   
-**Description:** Tableau Public dashboard consisted of: calculated renting property occupation rate; analytical chart to choose the best property by occupation rate, review score and price per night; a ranked table of top listings by calculated potential annual revenue; average price, average occupation rate and a number of unique listings KPIs; filters by neighborhood, occupation rate and a number of reviews per the last twelve month.    
-**Skills:** interview with a customer, requirements capture, designing an analytical dashboard, product delivery.    
-**Technology:** Tableau.    
-**Results:** created an analytical dashboard to support daily activities of a company involved in apartments renting business. 
+### Airbnb in London
+**Article:** [`dashboard`](https://medium.com/@emrahmetu/airbnb-in-london-ea9a83361933)    
+**Data:** Here you can see some of the simple analysis created by Tableau by using data published in Inside Airbnb (http://insideairbnb.com/get-the-data)   
+**Skills:** Data visualisation, data analysis
+**Technology:** Tableau
+**Results:** I analysed public data from Airbnb in London. These findings give us a broad perspective about the relationship between regions, prices and ratings.
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
