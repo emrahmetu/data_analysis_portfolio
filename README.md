@@ -35,8 +35,32 @@ Please check company website: http://elbruzconsulting.com/
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
-## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+## Data Analytics Work Experience
+In this section I will list professional roles.
+
+### Coca Cola Bottlers (CCI) Turkey, Pakistan, Central Asia & Middle East
+
+**Position:** [`Data Analyts & Senior Internal Auditor`](https://www.linkedin.com/in/emraydin/)    
+
+** Roles and Responsibilities **
+- Following latest trends in internal audit and adapts them through utilising technology such as data analytics, agile audit, Tableau, Python, R and PowerBI
+- Leading digital transformation of the Internal Audit Department
+- Data modelling, data mining, data cleansing, and data enrichment
+- Building data strategy, develop reports from systems and data sources
+- Implementation of ACL (Galvanize)
+- Creating scenarios with the help of SQL and ACL (Galvanize)
+
+### Elbruz Consulting Limited (London)
+
+**Position:** [`Director`](https://www.linkedin.com/in/emraydin/)    
+
+**Position:**
+- Data Analytics
+- Machine Learning
+- Data Visualisation (Tableau, PowerBI)
+- Data Training and Support Services
+- Dashboards
+- Master Data Management
 
 ### Detection of Fake Sales
 
