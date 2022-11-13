@@ -53,7 +53,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Earthquake Prediction in Turkey with LSTM Model
 
-**Article:** [`Earthquake Prediction in Turkey`](https://medium.com/@emrahmetu/earthquake-prediction-in-turkey-with-lstm-model-327df0761e4)    
+**Article:** [`Earthquake Prediction in Turkey (8 min read)`](https://medium.com/@emrahmetu/earthquake-prediction-in-turkey-with-lstm-model-327df0761e4)    
 
 **Description:** Turkey has had an observatory called Kandilli Rasathanesi since 1894 and it was connected to Bogazici University in 1982. During the 31 March Case in 1909, Kandilli Observatory and Earthquake Research Institute was destroyed, and it was reconstructed in 1910. The purpose of this paper is to review the seismicity in Turkey for the period 1910–2017 by using historical data observed by Kandilli Observatory and Earthquake Research Institute and predicting the earthquake by Long Short Term Memory which is a time-series data analysis method.
 
@@ -65,7 +65,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Violent Crimes in USA Communities
 
-**Article:** [`Violent Crimes in USA Communities`](https://medium.com/@emrahmetu/violent-crimes-in-usa-communities-b37923038172)      
+**Article:** [`Violent Crimes in USA Communities (9 min read)`](https://medium.com/@emrahmetu/violent-crimes-in-usa-communities-b37923038172)      
 
 **Summary:** Understanding where violent crime occurs may be a gateway to understand why it does occur. Environmental, socioeconomic and demographic factors may be important predictors of a society’s level of violent crime. Determining which ones are most prominent on the level of violent crime would provide useful insight to community design, economic growth and policing. The purpose of this paper is to examine and explore the predictors of ‘murder’ crimes committed in the United States, compare models using appropriate predictors to predict ‘murder’ and explain pros and cons. Data of communities and crimes was taken from the UCI Dataset Repository.
 
@@ -77,7 +77,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Sales Data Analysis in Python
 
-**Article:** [`Sales Data Analysis`](https://medium.com/@emrahmetu/sales-data-analysis-in-python-c4310002ad05)    
+**Article:** [`Sales Data Analysis (5 min read)`](https://medium.com/@emrahmetu/sales-data-analysis-in-python-c4310002ad05)    
 
 **Summary:** An international company sells in 20 different product groups. Premiums are given to sales representatives selling in these product groups if they meet the targeted sales numbers. The sales figures of the employees of this company in 20 product groups are shown in the attached file. The “Product Profit” column in this file represents revenue from sales made by vendors across product groups. Columns P1, P2, …, P20 represent sales in product groups. 
 
@@ -89,7 +89,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Airbnb in London
 
-**Article:** [`Airbnb in London`](https://medium.com/@emrahmetu/airbnb-in-london-ea9a83361933)    
+**Article:** [`Airbnb in London (3 min read)`](https://medium.com/@emrahmetu/airbnb-in-london-ea9a83361933)    
 
 **Data:** Here you can see some of the simple analysis created by Tableau by using data published in Inside Airbnb (http://insideairbnb.com/get-the-data)   
 
