@@ -15,7 +15,7 @@ Please check company website: http://elbruzconsulting.com/
 ## Table of contents
 - [About](#about)
 - [Data Analytics Work Experience](#data-analytics-work-experience)
-	+ [Coca Cola Bottlers (CCI) Turkey, Pakistan, Central Asia & Middle East](#coca-cola-bottlers-(-cci-)-turkey-,-pakistan-,-central-asia-&-middle-east)
+	+ [Coca Cola Bottlers Turkey, Pakistan, Central Asia & Middle East](#coca-cola-bottlers-turkey-,-pakistan-,-central-asia-&-middle-east)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Detection of Fake Sales](#detection-of-fake-sales)
 	+ [Earthquake Prediction in Turkey with LSTM Model](#earthquake-prediction-in-turkey-with-lstm-model)
@@ -40,7 +40,7 @@ Please check company website: http://elbruzconsulting.com/
 ## Data Analytics Work Experience
 In this section, professional roles related to data analytics were listed.
 
-### Coca Cola Bottlers (CCI) Turkey, Pakistan, Central Asia & Middle East
+### Coca Cola Bottlers Turkey, Pakistan, Central Asia & Middle East
 
 **Position:** [`Data Analyts & Senior Internal Auditor`](https://www.linkedin.com/in/emraydin/)    
 
