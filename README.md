@@ -112,15 +112,18 @@ how to apply basic methods to text mining, building search engines and recommend
 ### Big Data and Hadoop Environment
 **Description:** Topics are covered in the context of data analytics include the terminology and the core concepts behind big data problems, applications, and systems. In this course, I learnt how to use Hadoop and related Big Data Processing tools that are used for scalable big data analysis and have made it easier and more accessible.
  [official page of the course](https://akts.bau.edu.tr/bilgipaketi/index/ders/ders_id/20799/program_kodu/34373401/h/1312/s/1/st/D/ln/en/print/1/). 
+
 **Key Learnings:** Hadoop Ecosystem Fundamentals, Hadoop architecture and HDFS, MapReduce Programming, Hadoop Cluster Administration, Apache Spark, Spark Programming and RDDs, NoSQL Databases and distributed data storage, Distributed data operations and integration, Machine Learning with Apache Spark, Fast Data and Stream Processing with Apache Spark, 
 
 ### Data Mining
 **Description:** This course introduces some advanced and popular data mining topics with practical implementations. R open-source software program. 
  [official page of the course](https://akts.bau.edu.tr/bilgipaketi/index/ders/ders_id/14598/program_kodu/34373401/h/1312/s/1/st/D/ln/en/print/1/). 
+
 **Key Learnings:** Data import and export, data exploration, decision trees and random forest, network estimation, outlier detection, time serious analysis, association rules, text mining, social network analysis, web mining
 
 ### Multi Attribute Decision Making
 **Description:** Multi-attribute decision making concept by defining the decision making problem with its various constituents. [official page of the course](https://akts.bau.edu.tr/bilgipaketi/index/ders/ders_id/12369/program_kodu/34373401/h/1312/s/1/st/D/ln/en/print/1/)
+
 **Key Learnings:** Utility theory, multi attribute decision making, structuring the problem, elementary methods, value-based methods, outranking methods, group decision making, fuzzy approach to MADM.
 
 
