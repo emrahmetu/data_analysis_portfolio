@@ -16,6 +16,7 @@ Please check company website: http://elbruzconsulting.com/
 - [About](#about)
 - [Data Analytics Work Experience](#data-analytics-work-experience)
 	+ [Coca Cola Bottlers Turkey, Pakistan, Central Asia & Middle East](#coca-cola-bottlers-turkey-pakistan-central-asia-middle-east)
+	+ [Elbruz Consulting Limited (London)](#elbruz-consulting-limited-london)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Detection of Fake Sales](#detection-of-fake-sales)
 	+ [Earthquake Prediction in Turkey with LSTM Model](#earthquake-prediction-in-turkey-with-lstm-model)
@@ -52,7 +53,7 @@ In this section, professional roles related to data analytics were listed.
 - Implementation of ACL (Galvanize)
 - Creating scenarios with the help of SQL and ACL (Galvanize)
 
-### Elbruz Consulting Limited (London)
+### Elbruz Consulting Limited London
 
 **Position:** [`Director`](https://www.linkedin.com/in/emraydin/)    
 
