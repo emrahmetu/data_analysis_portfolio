@@ -107,24 +107,20 @@ how to apply basic methods to text mining, building search engines and recommend
 **Description:** Tableau usage [official page of the course](https://akts.bau.edu.tr/bilgipaketi/index/ders/ders_id/41534/program_kodu/34373401/h/1312/s/1/st/D/ln/en/print/1/)  
 **Key Learnings:** Tableau, Dashboards 
 
-### Computer Science Career Path
-**Description:** 20 weeks Computer Science Career Path from [Codecademy](https://www.codecademy.com/learn/paths/computer-science). The career path includes following topics: command line commands, git, python 3, OOP, linear data structures, complex data structures, asymptotic notation, recursion, sorting algorithms, search algorithms, graph search algorithms.  
-**Repository:** Although the career path has been already completed the repository is still under development, having only 9 listed projects including: words statistics calculator, English nouns pluralizer, English verbs conjugation, censor engine, etc. ---> [go to repo..](https://github.com/nktnlx/cs_path_codecademy)  
-**Status:** Completed in July 2020 (please, check the certificates section below).  
+### Big Data and Hadoop Environment
+**Description:** Topics are covered in the context of data analytics include the terminology and the core concepts behind big data problems, applications, and systems. In this course, I learnt how to use Hadoop and related Big Data Processing tools that are used for scalable big data analysis and have made it easier and more accessible.
+ [official page of the course](https://akts.bau.edu.tr/bilgipaketi/index/ders/ders_id/20799/program_kodu/34373401/h/1312/s/1/st/D/ln/en/print/1/). 
+**Key Learnings:** Hadoop Ecosystem Fundamentals, Hadoop architecture and HDFS, MapReduce Programming, Hadoop Cluster Administration, Apache Spark, Spark Programming and RDDs, NoSQL Databases and distributed data storage, Distributed data operations and integration, Machine Learning with Apache Spark, Fast Data and Stream Processing with Apache Spark, 
 
-### Google Python Class
-**Description:** This is a free class for people with a little bit of programming experience who want to learn Python by [Google](https://developers.google.com/edu/python). Topics covered: strings, lists, sorting, dicts, files, regular expressions, utilities, urllib.  
-**Repository:** Containing 10 cool projects including: mimicking random text generator, baby-names popularity counter (based on data from The Social Security administration US), etc. ---> [go to repo..](https://github.com/nktnlx/google_python_class)  
-**Status:** Completed in November 2020.  
+### Data Mining
+**Description:** This course introduces some advanced and popular data mining topics with practical implementations. R open-source software program. 
+ [official page of the course](https://akts.bau.edu.tr/bilgipaketi/index/ders/ders_id/14598/program_kodu/34373401/h/1312/s/1/st/D/ln/en/print/1/). 
+**Key Learnings:** Data import and export, data exploration, decision trees and random forest, network estimation, outlier detection, time serious analysis, association rules, text mining, social network analysis, web mining
 
-### Side Projects
-**Description:** Side projects and various code snippets I'm having fun with.  
-**Repository:** pull-ups ladder calculator, motivational bad habits tracker, my solutions to coding problems for Tinkoff Fintech Junior / Tinkoff Internship admission tests, applications to internships, [Google Sheets Course by Yandex Praktikum](https://practicum.yandex.ru/excel-for-work/), etc. ---> [go to repo..](https://github.com/nktnlx/side_projects)  
-**Status:** ∞  
+### Multi Attribute Decision Making
+**Description:** Multi-attribute decision making concept by defining the decision making problem with its various constituents. [official page of the course](https://akts.bau.edu.tr/bilgipaketi/index/ders/ders_id/12369/program_kodu/34373401/h/1312/s/1/st/D/ln/en/print/1/)
+**Key Learnings:** Utility theory, multi attribute decision making, structuring the problem, elementary methods, value-based methods, outranking methods, group decision making, fuzzy approach to MADM.
 
-### Tableau Vizzes
-**Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/profile/nktn.lx#!/)  
-**Status:** ∞  
 
 ## Certificates
 
