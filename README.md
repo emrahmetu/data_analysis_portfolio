@@ -39,7 +39,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Detection of Fake Sales
 
-**Article:** [`Detection of Fake Sales`](https://medium.com/@emrahmetu/a-real-life-example-data-analytics-in-audit-7a317bad9ccf)    
+**Article:** [`Detection of Fake Sales (24 min read)`](https://medium.com/@emrahmetu/a-real-life-example-data-analytics-in-audit-7a317bad9ccf)    
 
 **Project:** [`my_project`](https://docs.google.com/document/d/1zeLCcMfMLQQ-ttNTQQBWva6gCMx6iDsc/edit)   
 
