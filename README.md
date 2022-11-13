@@ -41,6 +41,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Article:** [`detection_of_fake_sales`](https://medium.com/@emrahmetu/a-real-life-example-data-analytics-in-audit-7a317bad9ccf)    
 
+**Project:** [`my_project`](https://docs.google.com/document/d/1zeLCcMfMLQQ-ttNTQQBWva6gCMx6iDsc/edit)   
+
 **Description:** The aim of this study is to test machine learning algorithms namely Logistic Regression, K-nears Neighbor and Decision Tree for determining which algorithm is the most effective for fake sales determination and comparing re-sampling techniques namely random under-sampling and SMOTE method. Auditors and finance staff can focus more on fraudulent activities instead of spending too much time with inefficient sampling.  
 
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
@@ -52,8 +54,6 @@ In this section I will list data analytics projects briefly describing the techn
 ### Earthquake Prediction in Turkey with LSTM Model
 
 **Article:** [`earthquake_prediction_in_turkey`](https://medium.com/@emrahmetu/earthquake-prediction-in-turkey-with-lstm-model-327df0761e4)    
-
-**Project:** [`my_project`](https://docs.google.com/document/d/1zeLCcMfMLQQ-ttNTQQBWva6gCMx6iDsc/edit)   
 
 **Description:** Turkey has had an observatory called Kandilli Rasathanesi since 1894 and it was connected to Bogazici University in 1982. During the 31 March Case in 1909, Kandilli Observatory and Earthquake Research Institute was destroyed, and it was reconstructed in 1910. The purpose of this paper is to review the seismicity in Turkey for the period 1910–2017 by using historical data observed by Kandilli Observatory and Earthquake Research Institute and predicting the earthquake by Long Short Term Memory which is a time-series data analysis method.
 
