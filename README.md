@@ -89,7 +89,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Airbnb in London
 
-**Article:** [`dashboard`](https://medium.com/@emrahmetu/airbnb-in-london-ea9a83361933)    
+**Article:** [`Airbnb in London`](https://medium.com/@emrahmetu/airbnb-in-london-ea9a83361933)    
 
 **Data:** Here you can see some of the simple analysis created by Tableau by using data published in Inside Airbnb (http://insideairbnb.com/get-the-data)   
 
