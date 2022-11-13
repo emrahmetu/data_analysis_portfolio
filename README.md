@@ -78,7 +78,7 @@ In this section I will provide details about courses taken during MSc in Big Dat
 ### Introduction to Big Data
 **Description:** The objective of this course is introduce fundamental concepts and methods in Big Data analytics and Data science, and provide students the insights into the basics of using "Big Data" in real-world scenarios.
 [official page of the course](https://akts.bau.edu.tr/bilgipaketi/index/ders/ders_id/16514/program_kodu/34373401/s/1/st/M/ln/en/print/1/).  
-**Key Learnings:**; 
+**Key Learnings:** 
 how to develop fundamental statistical models using R programming language,
 how to analyze big data sets to provide insight regarding the assumptions, value drivers, and risks,
 how to use statistical models to explore different ways to think about uncertainty, guide decision-making, and persuasively communicate analytical results,
@@ -87,16 +87,18 @@ how to apply basic methods to text mining, building search engines and recommend
 ### Research Methods and Ethics
 **Description:** In this course, research questions were defined and developed , and technics of research analysing was taught. Basic steps of researching such as collection of data, interpretation of date, research reporting were included.
  [official page of the course](https://akts.bau.edu.tr/bilgipaketi/index/ders/ders_id/3953/program_kodu/34373401/s/1/st/M/ln/en/print/1/). 
+
 **Key Learnings:** Gaining skills in integrating research into marketing planning process, demonstrating ethical dimensions associated with research, understainding major steps of conducting scientific research, developing and writing research proposals, learning how to execute a research design including collecting, analysing and interpreting data.   
 
 ### Marketing Analytics
 **Description:** The course objectives are to understand how analytical techniques and quantitative models can enhance decision-making by converting data and information to insights and decisions, to view marketing phenomena and processes in a quantitative fashion, and to use of marketing analytics. [official page of the course](https://akts.bau.edu.tr/bilgipaketi/index/ders/ders_id/16831/program_kodu/34373401/s/2/st/M/ln/en/print/1/). 
+
 **Key Learnings:** Linear Regression, Market Response Models Using Logistic Regression, Segmentation & Marketing Using Cluster Analysis, Segmentation & Marketing Using Discriminant Analysis, Customer Value and Loyalty Data, Customer Lifetime Value and Prediction of Customer Value, Pricing & Sales Promotion Decisions - Deciding on the “Right” Pricing Approach, Pricing & Sales Promotion Decisions - Tactical Pricing, Retail Analysis - Market-Basket Data, Advertising Models
 
 ### Big Data and Analytics
 **Description:** This course provides an overview of the fields of big data analytics and data science. Topics are covered in the context of data analytics include the terminology and the core concepts behind big data problems, applications, and systems. In this course, the students learn how to use Hadoop and related Big Data Processing tools that are used for scalable big data analysis and have made it easier and more accessible.
  [official page of the course](https://akts.bau.edu.tr/bilgipaketi/index/ders/ders_id/16830/program_kodu/34373401/h/1312/s/1/st/D/ln/en/print/1/).
-**Key Learnings:** 
+
 
 ### Big Data in Cloud Computing
 **Description:** The objective of this course is to introduce students with essential concepts of Cloud Computing and how to use them in Big Data.
