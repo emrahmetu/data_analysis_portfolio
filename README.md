@@ -7,7 +7,7 @@ I am currently a London based Data Analyst and Director of Elbruz Consulting Lim
 
 My project, You Have My Car (Arabam Sende), was selected in the top 10 in the entrepreneurship competition of TUSIAD. (https://www.bugenclikteisvar.com/bilgi-merkezi/katilimcilar/2011)  
 
-Please check my website: http://elbruzconsulting.com/
+Please check company website: http://elbruzconsulting.com/
 
 <br>
   
