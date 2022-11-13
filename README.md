@@ -20,7 +20,7 @@ My project, You Have My Car (Arabam Sende), was selected in the top 10 in the en
 	+ [Sales Data Analysis in Python](#sales-data-analysis-in-python)
 	+ [Airbnb in London](#airbnb-in-london)
 - [MSc in Big Data Analytics and Management Courses](#msc-in-big-data-analytics-and-management-courses)  
-    + [sklearn ML course](#sklearn-ML-course)
+    + [Introduction to Big Data](#introduction-to-big-data)
 	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
 	+ [Data Analysis Course](#data-analyst-specialization)
 	+ [Data Analysis Course Tinkoff-MSU](#data-analysis-course-tinkoff-msu)
@@ -78,6 +78,7 @@ In this section I will provide details about courses taken during MSc in Big Dat
 ### Introduction to Big Data
 **Description:** The objective of this course is introduce fundamental concepts and methods in Big Data analytics and Data science, and provide students the insights into the basics of using "Big Data" in real-world scenarios.
 [official page of the course](https://akts.bau.edu.tr/bilgipaketi/index/ders/ders_id/16514/program_kodu/34373401/s/1/st/M/ln/en/print/1/).  
+
 **Key Learnings:** 
 how to develop fundamental statistical models using R programming language,
 how to analyze big data sets to provide insight regarding the assumptions, value drivers, and risks,
@@ -103,10 +104,12 @@ how to apply basic methods to text mining, building search engines and recommend
 ### Big Data in Cloud Computing
 **Description:** The objective of this course is to introduce students with essential concepts of Cloud Computing and how to use them in Big Data.
  [official page of the course](https://akts.bau.edu.tr/bilgipaketi/index/ders/ders_id/23850/program_kodu/34373401/h/1312/s/1/st/D/ln/en/print/1/)  
+
 **Key Learnings:** Cloud Computing concepts and scenarios, Virtual Machines and Understanding with the Code library, SDKs, and IDE toolkits, Service object models and baseline concepts for working with storage systems and Databases, Service object models for Notification and Queue Services, Understanding Security and Applying security features, Application Development and Deployment Best Practices, Distributed Environments, Event Driven Scaling, Orchestrating Batch Processing, Large Scale Design Patterns
 
 ### Exploratory Data Analytics and Visualization
 **Description:** Tableau usage [official page of the course](https://akts.bau.edu.tr/bilgipaketi/index/ders/ders_id/41534/program_kodu/34373401/h/1312/s/1/st/D/ln/en/print/1/)  
+
 **Key Learnings:** Tableau, Dashboards 
 
 ### Big Data and Hadoop Environment
