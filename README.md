@@ -55,7 +55,7 @@ In this section, professional roles related to data analytics were listed.
 
 ### Elbruz Consulting Limited London
 
-**Position:** [`Director`](https://www.linkedin.com/in/emraydin/)    
+**Position:** [`Director`](http://elbruzconsulting.com/)    
 
 **All Services We Provide:**
 - Data Analytics
