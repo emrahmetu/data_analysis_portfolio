@@ -45,6 +45,8 @@ In this section, professional roles related to data analytics were listed.
 
 **Position:** [`Data Analyts & Senior Internal Auditor`](https://www.linkedin.com/in/emraydin/)    
 
+**Duration:** 2 years
+
 **Roles and Responsibilities:**
 - Following latest trends in internal audit and adapts them through utilising technology such as data analytics, agile audit, Tableau, Python, R and PowerBI
 - Leading digital transformation of the Internal Audit Department
@@ -56,6 +58,8 @@ In this section, professional roles related to data analytics were listed.
 ### Elbruz Consulting Limited London
 
 **Position:** [`Director`](http://elbruzconsulting.com/)    
+
+**Duration:** 1 year 5 months
 
 **All Services We Provide:**
 - Data Analytics
