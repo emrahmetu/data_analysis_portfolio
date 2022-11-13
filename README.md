@@ -14,6 +14,8 @@ Please check company website: http://elbruzconsulting.com/
 
 ## Table of contents
 - [About](#about)
+- [Data Analytics Work Experience](#data-analytics-work-experience)
+	+ [Coca Cola Bottlers (CCI) Turkey, Pakistan, Central Asia & Middle East](#Coca-Cola-Bottlers-(CCI)-Turkey,-Pakistan,-Central-Asia-&-Middle-East)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Detection of Fake Sales](#detection-of-fake-sales)
 	+ [Earthquake Prediction in Turkey with LSTM Model](#earthquake-prediction-in-turkey-with-lstm-model)
@@ -36,13 +38,13 @@ Please check company website: http://elbruzconsulting.com/
 - [Contacts](#contacts)
 
 ## Data Analytics Work Experience
-In this section I will list professional roles.
+In this section, professional roles related to data analytics were listed.
 
 ### Coca Cola Bottlers (CCI) Turkey, Pakistan, Central Asia & Middle East
 
 **Position:** [`Data Analyts & Senior Internal Auditor`](https://www.linkedin.com/in/emraydin/)    
 
-** Roles and Responsibilities **
+**Roles and Responsibilities:**
 - Following latest trends in internal audit and adapts them through utilising technology such as data analytics, agile audit, Tableau, Python, R and PowerBI
 - Leading digital transformation of the Internal Audit Department
 - Data modelling, data mining, data cleansing, and data enrichment
@@ -54,13 +56,15 @@ In this section I will list professional roles.
 
 **Position:** [`Director`](https://www.linkedin.com/in/emraydin/)    
 
-**Position:**
+**All Services We Provide:**
 - Data Analytics
 - Machine Learning
 - Data Visualisation (Tableau, PowerBI)
 - Data Training and Support Services
 - Dashboards
 - Master Data Management
+
+## Portfolio Projects
 
 ### Detection of Fake Sales
 
